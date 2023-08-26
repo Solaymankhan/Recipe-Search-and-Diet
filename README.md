@@ -1,16 +1,18 @@
-# recipe_search_and_diet
+# Recipe Search And Diet
 
-A new Flutter project.
+To run this Project you just have to :
 
-## Getting Started
+* Clone the Repository into local machine
+* Open file with 'Android studio' or 'VS Code'
+* Update the dependecies from 'pub.yaml'
+* Run the code
+That's it .
 
-This project is a starting point for a Flutter application.
+# Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/67571737/263446866-9dce7cce-8939-43e9-82aa-cf15c813428a.jpg" width="100" height="200" style="margin-right: 20px;" />
+  <img src="https://user-images.githubusercontent.com/67571737/263446900-ca06435e-fd96-4598-9e9e-7df637da8255.jpg" width="100" height="200" style="margin-right: 20px;" />
+  <img src="https://user-images.githubusercontent.com/67571737/263446909-be602ee0-6078-4129-955a-e40677bb775e.jpg" width="100" height="200" style="margin-right: 20px;" />
+  <img src="https://user-images.githubusercontent.com/67571737/263446924-a0640e00-8ee9-4f20-ad27-6babe7b99077.jpg" width="100" height="200" />
+</div>
