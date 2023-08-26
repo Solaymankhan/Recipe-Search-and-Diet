@@ -2,7 +2,7 @@
 
 To run this code you just have to :
 
-* Pull the Repository
+* Clone the Repository into local machine
 * Open file with 'Android studio' or 'VS Code'
 * Update the dependecies from 'pub.yaml'
 * Run the code
