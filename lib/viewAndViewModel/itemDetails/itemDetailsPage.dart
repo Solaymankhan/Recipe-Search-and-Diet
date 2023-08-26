@@ -233,12 +233,13 @@ class itemDetailsPage extends StatelessWidget {
                               itemCount: data.recipe!.ingredients!.length,
                               scrollDirection: Axis.horizontal,
                               itemBuilder: (context, index) {
-                                return
-                                  ingredientsShape(
-                                      ingredient_txt:data.recipe!.ingredients![index].text!,
-                                      category_txt: data.recipe!.ingredients![index].foodCategory!,
-                                      index: index,
-                                      len:data.recipe!.ingredients!.length);
+                                return ingredientsShape(
+                                    ingredient_txt:
+                                        data.recipe!.ingredients![index].text!,
+                                    category_txt: data.recipe!
+                                        .ingredients![index].foodCategory!,
+                                    index: index,
+                                    len: data.recipe!.ingredients!.length);
                               }).box.height(80).make(),
                           15.heightBox,
                           Column(
@@ -407,11 +408,20 @@ class itemDetailsPage extends StatelessWidget {
                                           .make(),
                                     ),
                                     SvgPicture.asset(forward_arrow_svg,
-                                        height: 45),
+                                            height: 45)
+                                        .onTap(() {
+                                      itemDetailsBloc.add(
+                                          DetailsNutritionSelectEvent(
+                                              state.index + 1>=data.recipe!.digest!.length?state.index: state.index + 1));
+                                    }),
                                     Icon(
                                       CupertinoIcons.chevron_forward,
                                       size: 15,
-                                    )
+                                    ).onTap(() {
+                                      itemDetailsBloc.add(
+                                          DetailsNutritionSelectEvent(
+                                              state.index + 1>=data.recipe!.digest!.length?state.index: state.index + 1));
+                                    })
                                   ],
                                 ),
                               10.heightBox,
