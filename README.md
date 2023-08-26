@@ -12,8 +12,8 @@ That's it .
 
 <img src="https://user-images.githubusercontent.com/67571737/263446866-9dce7cce-8939-43e9-82aa-cf15c813428a.jpg" width="100" height="200" />
 
-![371487195_653497743399013_1493079280824127581_n](https://github.com/Solaymankhan/Recipe-Search-and-Diet/assets/67571737/ca06435e-fd96-4598-9e9e-7df637da8255)
+<img src="https://user-images.githubusercontent.com/67571737/263446900-ca06435e-fd96-4598-9e9e-7df637da8255.jpg" width="100" height="200" />
 
-![371461099_318340740600005_3411533377489439345_n](https://github.com/Solaymankhan/Recipe-Search-and-Diet/assets/67571737/be602ee0-6078-4129-955a-e40677bb775e)
+<img src="https://user-images.githubusercontent.com/67571737/263446909-be602ee0-6078-4129-955a-e40677bb775e.jpg" width="100" height="200" />
 
-![371500428_1628362270997870_7505724384011626687_n](https://github.com/Solaymankhan/Recipe-Search-and-Diet/assets/67571737/a0640e00-8ee9-4f20-ad27-6babe7b99077)
+<img src="https://user-images.githubusercontent.com/67571737/263446924-a0640e00-8ee9-4f20-ad27-6babe7b99077.jpg" width="100" height="200" />
