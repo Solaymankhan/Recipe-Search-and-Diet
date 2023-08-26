@@ -1,6 +1,6 @@
 # Recipe Search And Diet
 
-To run this code you just have to :
+To run this Project you just have to :
 
 * Clone the Repository into local machine
 * Open file with 'Android studio' or 'VS Code'
