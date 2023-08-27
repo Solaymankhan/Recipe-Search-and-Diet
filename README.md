@@ -4,7 +4,7 @@ To run this Project you just have to :
 
 * Clone the Repository into local machine
 * Open file with 'Android studio' or 'VS Code'
-* Update the dependecies from 'pub.yaml'
+* Update the dependecies from 'pubspac.yaml'
 * Run the code
 That's it .
 
